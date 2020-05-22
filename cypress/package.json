@@ -1,0 +1,12 @@
+{
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.4.1"
+  },
+  "dependencies": {
+    "cypress-xpath": "^1.4.0",
+    "eslint-plugin-cypress": "^2.10.3"
+  }
+}

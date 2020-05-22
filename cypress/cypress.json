@@ -1,0 +1,10 @@
+{
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "integrationFolder": "tests",
+  "fixturesFolder": "core/fixtures",
+  "pluginsFile": "core/plugins/index.js",
+  "supportFile": "core/support/index.js",
+  "screenshotsFolder": "screenshots",
+  "videosFolder": "screenshots/videos"
+}
